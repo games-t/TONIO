@@ -1,1 +1,0 @@
-import{_ as o}from"./DwKpSQth.js";import{g as r,o as t}from"./3Fk0mtgH.js";import"./D9zmt5cj.js";const n={__name:"401",setup(e){return(a,c)=>(t(),r(o,{codigo:"Error 401",description:"Unauthorized"}))}};export{n as default};

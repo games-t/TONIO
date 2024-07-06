@@ -1,0 +1,1 @@
+import{u as t,a as e}from"./B40qSFi1.js";import{g as r,w as o,o as a,k as s}from"./DXzKdGHU.js";import"./ueSHsxsn.js";const l={__name:"Index",setup(c){return t().init(),(_,i)=>(a(),r(e,null,{default:o(()=>[s(" User Role ")]),_:1}))}};export{l as default};

@@ -1,0 +1,1 @@
+import{_ as o}from"./C279MYrx.js";import{g as r,o as t}from"./DXzKdGHU.js";import"./ueSHsxsn.js";const p={__name:"404",setup(c){return(e,_)=>(t(),r(o,{codigo:"Error 404",description:"Not found"}))}};export{p as default};

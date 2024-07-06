@@ -1,1 +1,0 @@
-import{_ as o}from"./AppLayoutStatus-B8NsDSF2.js";import{g as r,o as t}from"./index-CxZN97vy.js";import"./Spin-CrooxrbT.js";const p={__name:"404",setup(c){return(e,_)=>(t(),r(o,{codigo:"Error 404",description:"Not found"}))}};export{p as default};

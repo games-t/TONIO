@@ -1,1 +1,0 @@
-import{u as t,a as e}from"./AppLayout-B4u2TX5M.js";import{g as r,w as o,o as a,k as s}from"./index-CxZN97vy.js";import"./Spin-CrooxrbT.js";const l={__name:"Index",setup(c){return t().init(),(_,i)=>(a(),r(e,null,{default:o(()=>[s(" User Role ")]),_:1}))}};export{l as default};
